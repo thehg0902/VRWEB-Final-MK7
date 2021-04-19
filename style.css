@@ -349,7 +349,7 @@ white
     background-color: inherit;
   }
   100%{
-    transform: scale(5);
+    transform: scale(10);
     background-color:  #41454d;
   }
 }
@@ -374,7 +374,7 @@ white
     background-color: inherit;
   }
   100%{
-    transform: scale(5);
+    transform: scale(10);
     background-color:  #41454d;
   }
 }
@@ -399,7 +399,7 @@ white
     background-color: inherit;
   }
   100%{
-    transform: scale(5);
+    transform: scale(10);
     background-color:  #41454d;
   }
 }
